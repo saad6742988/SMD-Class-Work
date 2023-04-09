@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="goto_second_activity">Goto second activity</string>
+    <string name="this_is_main_activity">This is main Activity</string>
+    <string name="open_dail_pad">Open Dail Pad</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="open_gallery">open gallery</string>
+    <string name="capture_image">Capture image</string>
+    <string name="todo1">TODO</string>
+    <string name="show_my_pref">Show My Pref</string>
+    <string name="save_my_pref">Save my pref</string>
+    <string name="textview">TextView</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="download_image">Download Image</string>
+    <string name="imgasynctask">imgAsyncTask</string>
+    <string name="download_web_content">download web content</string>
+    <string name="request_for_permission">Request For Permission</string>
+    <string name="check_for_permission">Check For Permission</string>
+    <string name="mobile_name">Mobile Name</string>
+    <string name="mobile_company">Mobile company</string>
+    <string name="mobile_price">Mobile Price</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop service</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="contacts">Contacts</string>
+    <string name="home_address">Home Address</string>
+    <string name="buttonsavetosql">Save Contact</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="secondname">Second Name</string>
+    <string name="firstname">First Name</string>
+    <string name="deletefromdb">delete from DB</string>
+    <string name="update">Update in DB</string>
+    <string-array name="contacts_array">
+        <item>Ali</item>
+        <item>Ahmed</item>
+        <item>Uzair</item>
+        <item>Nabeel</item>
+        <item>Abdullah</item>
+        <item>Mubeen</item>
+    </string-array>
+    <string-array name="details_array">
+        <item>Details of Ali</item>
+        <item>Details of Ahmed</item>
+        <item>Details of Uzair</item>
+        <item>Details of Nabeel</item>
+        <item>Details of Abdullah</item>
+        <item>Details of Mubeen</item>
+    </string-array>
+</resources>
