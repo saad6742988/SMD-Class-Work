@@ -35,6 +35,8 @@
     <string name="firstname">First Name</string>
     <string name="deletefromdb">delete from DB</string>
     <string name="update">Update in DB</string>
+    <string name="textview11">TextView</string>
+    <string name="todo11">TODO</string>
     <string-array name="contacts_array">
         <item>Ali</item>
         <item>Ahmed</item>
